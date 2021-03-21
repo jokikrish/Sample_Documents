@@ -1,0 +1,5 @@
+This folder contains the writing sampls in the HTML format and shared as a public folder to show the contents.
+::wq
+:WQ
+
+
